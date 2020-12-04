@@ -27,8 +27,8 @@
 ## **Languages and Tools:**
 [//]: # (Adicione os recursos do seu projeto aqui:)
 
-- <code><img height="20" src="https://github.com/brandaoti/organizar-github/blob/main/Imagens/flutter.png"></code> **Flutter**
-- <code><img height="20" src="https://github.com/brandaoti/organizar-github/blob/main/Imagens/dart.png"></code> **Dart**
+- <code><img height="20" src="./imagens/flutter.png"></code> **Flutter**
+- <code><img height="20" src="./imagens/dart.png"></code> **Dart**
 
 ## Getting started
 
