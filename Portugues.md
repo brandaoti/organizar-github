@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="YOUR_LOGO_URL" alt="YOUR_PROJECT_NAME" width="120">
+  <img src="https://github.com/brandaoti/organizar-github/blob/main/Imagens/flutter.png" alt="Flutter" width="120">
 <br>
 <br>
 YOUR_PROJECT_NAME
@@ -21,14 +21,13 @@ YOUR_PROJECT_NAME
 </div>
 
 <hr />
-<img height="20" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup.png"> <br>
 
 ## Features
 [//]: # (Adicione os recursos do seu projeto aqui:)
 Este aplicativo apresenta todas as ferramentas e práticas mais recentes em desenvolvimento móvel!
 
-- ⚛️ **Flutter**
-- ⚛️ **Dart**
+- <code><img height="20" src="https://github.com/brandaoti/organizar-github/blob/main/Imagens/flutter.png"></code> **Flutter**
+- <code><img height="20" src="https://github.com/brandaoti/organizar-github/blob/main/Imagens/dart.png"></code> **Dart**
 
 ## Começando
 
