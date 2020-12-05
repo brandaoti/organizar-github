@@ -35,11 +35,23 @@
 - <code><img height="20" src="img/flutter.png"></code> **Flutter**
 - <code><img height="20" src="img/dart.png"></code> **Dart**
 
-## Getting started
+<hr />
+
+## **Shields**
+
+[![Instagram: @aprendendoflutter](link/aprendendoflutter-segue_ai-blue.svg)](https://www.instagram.com/aprendendoflutter)
+[![Linkedin: dannbrandao](link/linkedin-dannbrandao-blue-square.svg)](https://www.linkedin.com/in/dannbrandao/)
+
+
+
+
+
+
+<!-- ## Getting started
 
 Descreva aqui a forma de usar / instalar seu projeto
 
 
 ## License
 
-Este projeto está licenciado sob a Licença MIT - consulte a [LICENSE](https://opensource.org/licenses/MIT) página para detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte a [LICENSE](https://opensource.org/licenses/MIT) página para detalhes. -->
